@@ -3,7 +3,7 @@
 - This folder contains the main script for assignment
 
 "in" FOLDER:
-- This is where the data used in the script should be placed. In this case, this is where the .jpg's og flowers should be placed.
+- This is where the data used in the script should be placed.
 
 "out" FOLDER:
 - This is where all output data will be stored after running scripts.
