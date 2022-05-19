@@ -1,4 +1,5 @@
 # Visual_analytics_Assignment_2
+## ------ SCRIPT DESCRIPTION ------
 This repository contains two scripts to create a logistic regression classifier and a crude neural network classifier.
 
 The model will create a classficer and print + save the classcification report
